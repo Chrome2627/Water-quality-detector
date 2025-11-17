@@ -49,6 +49,7 @@ water_quality_detector/
 ├── scaler.pkl                          # Data scaler (auto-generated)
 └── label_encoder.pkl                   # Label encoder (auto-generated)
 ```
+#### REMEMBER PUT THE water_quality_sample.cvs in a new folder name data like shown in above ####
 
 ##  Usage
 
